@@ -1,0 +1,88 @@
+{
+  "product_info": {
+    "formula": {
+      "value": "C16H24N2PbCl4",
+      "confidence_score": 1.0,
+      "source_sentence": "Chemical Formula: C16H24N2PbCl4"
+    },
+    "color": {
+      "value": "colorless",
+      "confidence_score": 1.0,
+      "source_sentence": "A colorless single crystal of dimensions 0.09 mm X 0.18 mm X 0.27 mm was used."
+    },
+    "morphology": {
+      "value": "Small block-like crystals to larger plate-like crystals",
+      "confidence_score": 1.0,
+      "source_sentence": "Product: Small block-like crystals to larger plate-like crystals"
+    },
+    "size": {
+      "value": "0.09 mm X 0.18 mm X 0.27 mm",
+      "confidence_score": 1.0,
+      "source_sentence": "A colorless single crystal of dimensions 0.09 mm X 0.18 mm X 0.27 mm was used."
+    }
+  },
+  "Dimensionality": {
+    "value": "2D",
+    "confidence_score": 1.0,
+    "source_sentence": "Dimensionality: 2D"
+  },
+  "Atomic_coordinates": {
+    "Temp": {
+      "value": "298.0 K",
+      "confidence_score": 1.0,
+      "source_sentence": "(T = 298.0 K)"
+    },
+    "space_group": {
+      "value": "P -1",
+      "confidence_score": 1.0,
+      "source_sentence": "Space group: P -1"
+    },
+    "crystal_system": {
+      "value": "triclinic",
+      "confidence_score": 1.0,
+      "source_sentence": "Crystal system: triclinic"
+    },
+    "lattice_parameters": {
+      "a": "11.1463 (±0.0003) Å",
+      "b": "11.2181 (±0.0003) Å",
+      "c": "17.6966 (±0.0005) Å",
+      "alpha": "99.173 (±0.001)°",
+      "beta": "104.634 (±0.001)°",
+      "gamma": "89.999 (±0.001)°"
+    }
+  },
+  "synthesis_method": {
+    "starting_materials": {
+      "reagents": [
+        "PbCl2",
+        "phenethylamine"
+      ],
+      "solvents": [
+        "HCl",
+        "methanol"
+      ],
+      "confidence_score": 1.0,
+      "source_sentence": "Starting materials: PbCl2, HCl, methanol, phenethylamine"
+    },
+    "procedure": {
+      "value": "Grow crystals within a long, straight, glass tube (Refer to Fig. 1). First dissolve 1.0 mmol (0.278 g) of freshly sublimed PbCl2 (Aldrich; 99.999%) in 7.5 ml concentrated (37 wt %) aqueous HCl (Aldrich; 99.999%). Weigh and add PbCl2 to the tube in an argon-filled glove box, with oxygen and water levels maintained below 1 ppm. Cover the tube with a septum before removing the glove box and adding HCl with a syringe. \n\nCreate a second layer in the crystal tube by gently syringing 15 ml of methanol (Aldrich; anhydrous, 99.8%) on top of the HCl/PbCl2 solution. A relatively sharp interface can be created between the solvent layers due to density differences. On top of the column, add a stoichiometric amount (2 mmol or approximately 0.25 ml) of phenethylamine with a syringe. \n\nIn the experiment, the phenethylamine rapidly dispersed in the methanol but, because of the sharp interface with the HCl solution, formation of the final (C6H5C2H4NH3)2PbCl4 product was very slow. The crystals were isolated after approximately one year by removing the solvent with a syringe and drying the crystals under vacuum at room temperature and later stored in an argon glove box.",
+      "confidence_score": 1.0,
+      "source_sentence": "Grow crystals within a long, straight, glass tube (Refer to Fig. 1). First dissolve 1.0 mmol (0.278 g) of freshly sublimed PbCl2 (Aldrich; 99.999%) in 7.5 ml concentrated (37 wt %) aqueous HCl (Aldrich; 99.999%). Weigh and add PbCl2 to the tube in an argon-filled glove box, with oxygen and water levels maintained below 1 ppm. Cover the tube with a septum before removing the glove box and adding HCl with a syringe. Create a second layer in the crystal tube by gently syringing 15 ml of methanol (Aldrich; anhydrous, 99.8%) on top of the HCl/PbCl2 solution. A relatively sharp interface can be created between the solvent layers due to density differences. On top of the column, add a stoichiometric amount (2 mmol or approximately 0.25 ml) of phenethylamine with a syringe. In the experiment, the phenethylamine rapidly dispersed in the methanol but, because of the sharp interface with the HCl solution, formation of the final (C6H5C2H4NH3)2PbCl4 product was very slow. The crystals were isolated after approximately one year by removing the solvent with a syringe and drying the crystals under vacuum at room temperature and later stored in an argon glove box."
+    },
+    "Stoichiometry": {
+      "value": "2:1 (amine:metal halide)",
+      "confidence_score": 1.0,
+      "source_sentence": "On top of the column, add a stoichiometric amount (2 mmol or approximately 0.25 ml) of phenethylamine with a syringe."
+    },
+    "technique": {
+      "value": "Layered solution approach",
+      "confidence_score": 1.0,
+      "source_sentence": "Description: Layered solution approach."
+    },
+    "conditions": {
+      "value": "room temperature",
+      "confidence_score": 1.0,
+      "source_sentence": "The crystals were isolated after approximately one year by removing the solvent with a syringe and drying the crystals under vacuum at room temperature and later stored in an argon glove box."
+    }
+  }
+}
