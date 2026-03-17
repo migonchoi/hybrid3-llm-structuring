@@ -7,7 +7,7 @@ materials database pages into structured JSON suitable for machine learning.
 
 - Fetches a Hybrid3 material page
 - Filters relevant HTML sections
-- Uses Gemini LLM to extract structured information
+- Uses LLM to extract structured information
 - Outputs a JSON file
 
 ## Extracted fields
